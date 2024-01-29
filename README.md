@@ -4,24 +4,33 @@
   <img src="[README] images/python.png"width=" 150px">
   <h1>Guia prático de Testes unitáriso com Pytest</h1>
 </div>
-<p align = "justify"> &emsp; Este repositório fornece um guia sobre testes unitários utilizando o framework Pytest. A estrutura pytest facilita a gravação de testes pequenos e legíveis e pode ser dimensionada para suportar testes funcionais complexos para aplicativos e bibliotecas.</p>
+<p align = "justify"> &emsp; Este repositório fornece um guia sobre empacotamento de projetos python utilizando setuptools. Setuptools é uma biblioteca estável, com manutenção ativa e completa, projetada para facilitar o empacotamento de projetos Python.</p>
 
 
 <h2 align="center">S U M A R I O</h2>
 <br>
 
-1. [Instalação e configuração do Pytest](#capitulo1)
+0. [Introdução](#intro)
+1. [Instalação e configuração](#capitulo1)
     1. [Instalação](#subcapitulo1_1)
-1. [Estrutura básica de um teste usando Pytest](#capitulo2)
+1. [Estrutura Básica do Pacote](#capitulo2)
     1. [Estrutura de diretórios](#subcapitulo2_1)
-    1. [Descoberta de testes em Python](#subcapitulo2_2)
-    1. [Asserts e verificações de testes](#subcapitulo2_3)
-1. [Fixtures e parametros dinâmicos](#capitulo4)
+    1. [__init__.py](#subcapitulo2_2)
+    1. [Organização de código-fonte e módulos.](#subcapitulo2_3)
+1. [Configuração do setup.py](#capitulo4)
     1. [O que são fixtures?](#subcapitulo4_1)
     1. [Parametros dinâmicos](#subcapitulo4_2)
-1. [Relatórios de testes](#capitulo5)
+1. [Distribuição do Pacote](#capitulo5)
     1. [Gerando relatórios de cobertura](#subcapitulo5_1)
-1. [Mocks e MagicMocks[ EM PRODUÇÃO ]](#capitulo6)
+1. [Segurança](#capitulo6)
+    1. [Subcapitulo](#subcapitulo6_1)
+1. [Controle de Versão](#capitulo6)
+    1. [Subcapitulo](#subcapitulo6_1)
+1. [Manifesto](#capitulo6)
+    1. [Subcapitulo](#subcapitulo6_1)
+1. [Catalogação e Tags no Repositório Git](#capitulo6)
+    1. [Subcapitulo](#subcapitulo6_1)
+1. [Automatização do Processo](#capitulo6)
     1. [Subcapitulo](#subcapitulo6_1)
 1. [Apêndice](#apendice)
     1. [Ambiente virtual](#env):
