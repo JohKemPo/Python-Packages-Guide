@@ -2,7 +2,7 @@
 <div align="center">
   <img src="[README] images/setuptools.png"width=" 150px">
   <img src="[README] images/python.png"width=" 150px">
-  <h1>Guia prático de Testes unitáriso com Pytest</h1>
+  <h1>Guia prático de Criação, Controle e distribuição de pacotes Python</h1>
 </div>
 <p align = "justify"> &emsp; Este repositório fornece um guia sobre empacotamento de projetos python utilizando setuptools. Setuptools é uma biblioteca estável, com manutenção ativa e completa, projetada para facilitar o empacotamento de projetos Python.</p>
 
@@ -31,6 +31,8 @@
 1. [Catalogação e Tags no Repositório Git](#capitulo6)
     1. [Subcapitulo](#subcapitulo6_1)
 1. [Automatização do Processo](#capitulo6)
+    1. [Subcapitulo](#subcapitulo6_1)
+1. [Licenças](#capitulo6)
     1. [Subcapitulo](#subcapitulo6_1)
 1. [Apêndice](#apendice)
     1. [Ambiente virtual](#env):
