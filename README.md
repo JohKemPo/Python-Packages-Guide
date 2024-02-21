@@ -3,6 +3,7 @@
   <img src="[README] images/setuptools.png"width=" 150px">
   <img src="[README] images/python.png"width=" 150px">
   <h1>Guia prático de Criação, Controle e distribuição de pacotes Python</h1>
+  <h1> [ EM PRODUÇÃO ]</h1>
 </div>
 <p align = "justify"> &emsp; Este repositório fornece um guia sobre empacotamento de projetos python utilizando setuptools. Setuptools é uma biblioteca estável, com manutenção ativa e completa, projetada para facilitar o empacotamento de projetos Python.</p>
 
